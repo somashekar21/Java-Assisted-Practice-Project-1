@@ -17,7 +17,7 @@ public class JavaMethods {
 	    }
 
 	    public static void main(String[] args) {
-	        // Creating an instance of MethodVerification
+	        // Creating an instance of Java Methods
 	    	JavaMethods example = new JavaMethods();
 
 	        // Calling a method with no parameters and no return value
