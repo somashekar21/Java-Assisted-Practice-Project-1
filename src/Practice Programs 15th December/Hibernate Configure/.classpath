@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-16">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/sheka/Documents/jar files/jakarta.activation-api-2.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sheka/Documents/jar files/jakarta.xml.bind-api-4.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sheka/Documents/jar files/javax.servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sheka/Documents/jar files/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sheka/Documents/jar files/javax.xml.bind.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sheka/Documents/jar files/jaxb-osgi-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sheka/Documents/jar files/jta-1_1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sheka/Documents/jar files/mysql-connector-j-8.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/sheka/Documents/jar files/dom4j-1.6.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
